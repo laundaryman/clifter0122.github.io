@@ -1,7 +1,7 @@
 ---
-layout: CV
+layout: Work
 title: CV
-slug: /CV
+slug: /work
 items:
   - title: My Interest 1
     image:
