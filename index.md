@@ -6,5 +6,8 @@ profile_picture:
 ---
 
 <p>
-  Hello.
+  Greetings! I am a senior student at Seoul National University who loves math and deep learning. I am especially interested in deep learning theory, but I also have a broad interest in optimization, reliable & understandable AI, and how deep learning can be applied in the field of mathematics.  
+</p>
+<p>
+  
 </p>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="work">
+          <h1 class="page-heading">{{ page.title }}</h1>
+          {{ content }}
+
+          {% for item in page.items %}
+            <span class="work-text">
+              
+              <strong style="font-size:18px;"> {{ item.title }}</strong>
+              <br>
+              
+              {% for description in item.contents %}
+              {{description.Institute}}
+              ,
+              {{description.Date}}
+                <ul>
+                  {% for add_description in description.descriptions %}
+                  <li>{{add_description}}</li>
+                  {% endfor %}
+                </ul>
+              {% endfor %}
+            </span>
+          {% endfor %}
+
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    {% include foot.html %}
+  </body>
+</html>

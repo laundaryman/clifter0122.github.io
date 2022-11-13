@@ -1,20 +1,23 @@
 ---
-layout: Work
+layout: Publications
 title: Publications
 slug: /work
 items:
-  - title: My Interest 1
-    image:
-      src: /assets/img/work/water.png
-      alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: My Interest 2
-    image:
-      src: /assets/img/work/sand.png
-      alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- author: Euna Jung, Jungwon Park, Jaekeol Choi, Sungyoon Kim, Wonjong Rhee,
+  title: “Isotropic Representation Can Improve Dense Retrieval”, arXiv, 2022
+  link: "https://arxiv.org/abs/2209.00218"
+
+- author: Sungyoon Kim, Joongbo Shin, Yoonhyung Lee, Kyomin Jung, 
+  title: “Improving Data Augmentation in cGANs by Feature Vector Diversification”, Korea Computer Congress, 2020
+  link: "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE09874865&googleIPSandBox=false&mark=0&useDate=&ipRange=false&accessgl=Y&language=ko_KR&hasTopBanner=true"
+
+- author: Seonhong Kim, Sungyoon Kim, Taehyung Kim, Sangheon Lee, 
+  title: “Roots and critical point behaviors of certain sums of polynomials”, Proceedings – Mathematical Sciences, 2018
+  link: "https://link.springer.com/article/10.1007/s12044-018-0402-7"
+
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
+
+
 <br />
 <br />
