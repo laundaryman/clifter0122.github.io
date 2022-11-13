@@ -4,6 +4,5 @@ title: Useful lecture notes on deep learning theory
 date: 2022-11-13 23:25:23 +0900
 category: Deep Learning Theory
 ---
-# post-sample
 
 The field of deep learning theory is rather new. Some early movements on creating notes for the field can be found here.
