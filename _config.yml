@@ -21,7 +21,7 @@
 title: Sungyoon Kim
 email: clifter0122@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am interested in unravelling the black box of deep learning with theory. I also have a broad interst on security, explainable AI, and mathematics.
+  I am interested in unravelling the black box of deep learning with theory.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  laundaryman

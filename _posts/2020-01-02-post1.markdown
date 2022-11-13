@@ -1,13 +1,9 @@
 ---
-layout: post
-title: post-sample
-date: 2020-01-02 19:20:23 +0900
-category: sample
+layout: page
+title: Useful lecture notes on deep learning theory
+date: 2022-11-13 23:25:23 +0900
+category: Deep Learning Theory
 ---
 # post-sample
-> Hello!
 
-This is code
-```ruby
-print 'hello world'
-```
+The field of deep learning theory is rather new. Some early movements on creating notes for the field can be found here.
