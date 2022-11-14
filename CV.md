@@ -1,7 +1,7 @@
 ---
 layout: CV
 title: CV
-slug: /work
+slug: /CV
 items:
   - title: Education
     contents: 
