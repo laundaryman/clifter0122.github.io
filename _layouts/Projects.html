@@ -1,20 +1,52 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
+
   <body>
     {% include header.html %}
+
     <div class="page-content">
       <div class="wrapper">
-        <div class="work">
+        <div class="Projects">
           <h1 class="page-heading">{{ page.title }}</h1>
-          {% for item in page.items %}
-          <div class="work-item">
-            <span class="work-text">
-              <strong>{{ item.title }}</strong> 
-              {{ item.description }}
-            </span>
-          </div>
-          {% endfor %}
+          {{ content }}
+
+            {% for item in page.items %}
+
+              <div class="Project">
+                <strong>{{ item.title }}</strong>
+                <br/>
+
+                {%assign img_path = "/assets/img/" | append:item.image %}
+                <img
+                  src="{{ img_path }}"
+                  style = "width:150px;height:150px"
+                  alt="{{ item.image }}"
+                  class="work-bubble"
+                />
+
+                {{ item.description }}
+                <br/>
+                {%if item.github != 0 %}
+                  <a href = "{{item.github}}">Github</a>
+                  <br/>
+                {% else %}
+                  Github
+                  <br/>
+                {% endif %}
+                {%if item.report != 0 %}
+                  <a href = "{{item.report}}">Final report</a>
+                  <br/>
+                {% else %}
+                  Final report
+                  <br/>
+                {% endif %}
+
+                <br/><br/><br/>
+              </div>
+          
+            {% endfor %}
+
         </div>
       </div>
     </div>
