@@ -57,6 +57,6 @@ items:
 
 ---
 
-For a complete CV, please refer to this <a href = "file://///https://github.com/laundaryman/laundaryman.github.io)/CV_Sungyoon Kim_221112.pdf">pdf</a>.
+For a complete CV, please refer to this <a href = "file://///https://github.com/laundaryman/laundaryman.github.io/CV_Sungyoon Kim_221112.pdf">pdf</a>.
 <br />
 
