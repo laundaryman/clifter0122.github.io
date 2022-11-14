@@ -1,7 +1,7 @@
 ---
 layout: Posts
 title: Posts
-slug: /blog
+slug: /posts
 ---
 
 Random postings on math, deep learning, maybe security, and others.

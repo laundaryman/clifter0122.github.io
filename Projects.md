@@ -1,7 +1,7 @@
 ---
 layout: Projects
 title: Projects
-slug: /work
+slug: /projects
 items:
   - title: Deep Lyapunov Methods and Symbolic regression
     image:

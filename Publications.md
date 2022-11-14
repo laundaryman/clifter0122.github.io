@@ -1,7 +1,7 @@
 ---
 layout: Publications
 title: Publications
-slug: /work
+slug: /publications
 items:
 - author: Euna Jung, Jungwon Park, Jaekeol Choi, Sungyoon Kim, Wonjong Rhee,
   title: “Isotropic Representation Can Improve Dense Retrieval”, arXiv, 2022
