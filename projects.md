@@ -6,7 +6,7 @@ items:
     - title: Deep Lyapunov methods and Symbolic Regression (Bachelor's thesis of mathematics, Ongoing)
       image: DLN.png
       github: 0
-      report: 0
+      report: "/assets/Bachelor's Thesis in Mathematics_Sungyoon Kim.pdf"
       description: Implementation of deep neural lyapunov functions and symbolic regression, codes and report to be uploaded
     - title: Hardness aware property of SupCon (Work done during internship at DRL research group)
       image: HAP.png
@@ -16,7 +16,7 @@ items:
     - title: Restarting Methods of Nesterov's algorithm (Graduate Project)
       image: GP.jpg
       github: https://github.com/laundaryman/Graduate-Project
-      report: "/assets/final_project.pdf"
+      report: "/assets/Graduate Project_Sungyoon Kim.pdf"
       description: Graduate project on Nesterov's algorithm. Project implemented on MATLAB, and some theoretical analysis was also given.
     - title: Splix.io implemented (Programming Methodology Term Project)
       image: splixio.png
